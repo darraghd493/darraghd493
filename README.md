@@ -9,6 +9,7 @@ I've used a couple of languages so far, these are:
 * Java
 * Javascript
 * Kotlin
+* Lua
 * Python
 
 #### Current Projects
