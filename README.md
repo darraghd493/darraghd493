@@ -14,9 +14,9 @@ I've used a couple of languages so far, these are:
 
 #### Current Projects
 I'm working on a couple of projects usually, currently I'm working on:
-* ~~Fiver Client, a Minecraft 1.8.8 modification~~
+* A bunch of forks
 * Henti Client, a Minecraft 1.8.9 modification
-* [Translation Bot](https://github.com/darraghd493/TranslationBot), a translation bot for Discord
+* [Translation Bot](https://github.com/darraghd493/TranslationBot), a translation bot for Discord (currently dead - I have no interest in it)
 
 and many other small projects!
 
