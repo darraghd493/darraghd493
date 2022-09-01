@@ -20,5 +20,8 @@ I'm working on a couple of projects usually, currently I'm working on:
 
 and many other small projects!
 
+#### Note
+I just accidentally deleted the wrong project. :/
+
 #### Metrics
 ![Metrics](https://metrics.lecoq.io/darraghd493?template=classic&base.indepth=true&isocalendar=1&lines=1&base.indepth=true&base.hireable=false&isocalendar.duration=half-year&config.timezone=Europe%2FLondon)
