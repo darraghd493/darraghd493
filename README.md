@@ -23,7 +23,7 @@ I'm working on a couple of projects usually, currently I'm working on:
 and many other small projects!
 
 ### Notes
-* **01/09/2022** I just accidentally deleted the wrong project. :/
+* **01/09/2022** I just accidentally deleted the wrong project. This made up a lot of my work on here. :/
 * **11/09/2022** Just hit 400 commits with my *current* projects!
 
 ### Metrics
