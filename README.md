@@ -8,19 +8,14 @@ I've used a couple of languages so far, these are:
 * HTML / CSS / JS
 * Java
 * Javascript
-* Kotlin
 * Lua
 * Python
 
 ### Current Projects
 I'm working on a couple of projects usually, currently I'm working on:
-* A bunch of forks
-* General projects
-* FestivalWare, a joke suggestion by a friend which I've taken seriously
-* Henti Client, a Minecraft 1.8.9 modification
-* [Translation Bot](https://github.com/darraghd493/TranslationBot), a translation bot for Discord (currently dead - I have no interest in it)
+* Henti Client, a Minecraft 1.8.9 utility modification
 
-and many other small projects!
+and other small projects!
 
 ### Notes
 * **01/09/2022** I just accidentally deleted the wrong project. This made up a lot of my work on here. :/
