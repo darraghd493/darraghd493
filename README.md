@@ -13,7 +13,7 @@ I've used a couple of languages so far, these are:
 
 ### Current Projects
 I'm working on a couple of projects usually, currently I'm working on:
-* Henti Client, a Minecraft 1.8.9 utility modification
+* Alyssum, a Minecraft 1.8.9 utility modification
 
 and other small projects!
 
@@ -23,4 +23,4 @@ and other small projects!
 
 ### Metrics
 ![Metrics](https://metrics.lecoq.io/darraghd493?template=classic&base.indepth=true&isocalendar=1&lines=1&base.indepth=true&base.hireable=false&isocalendar.duration=half-year&config.timezone=Europe%2FLondon)
-###### *Metrics does not include any private projects
+###### *Metrics does not include any private projects, which many are
