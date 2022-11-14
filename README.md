@@ -18,7 +18,7 @@ I've used a couple of languages so far, these are:
 I'm working on a couple of projects usually, currently I'm working on:
 * Alyssum, a Minecraft 1.8.9 utility modification (Java with custom C++ natives) **Stored locally at the moment**
 * Clover, an external autoclicker (C++) **Currently private**
-* [DiscordCleverbot](https://DiscordCleverbot.doge2018.repl.co) (Javascript) **Just made public** [Github](https://github.com/darraghd493/DiscordCleverbot) [Website](https://DiscordCleverbot.doge2018.repl.co)
+* [DiscordCleverbot](https://DiscordCleverbot.doge2018.repl.co) (Javascript) **Just made public** [Github](https://github.com/darraghd493/DiscordCleverbot) and [Website](https://DiscordCleverbot.doge2018.repl.co)
 
 and many other small projects across varying languages!
 
