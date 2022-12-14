@@ -16,15 +16,21 @@ I've used a couple of languages so far, these are:
 
 ### Current Projects
 I'm working on a couple of projects usually, currently I'm working on:
-* Alyssum, a Minecraft 1.8.9 utility modification (Java with custom C++ natives) **Currently private**
+* Reek.lol, a Minecraft 1.8.9 utility modification (Java with custom C++ natives) **Currently private**
 * Clover, an external autoclicker (C++) **Currently private**
 * [DiscordCleverbot](https://DiscordCleverbot.doge2018.repl.co) (Javascript) **Just made public** [Github](https://github.com/darraghd493/DiscordCleverbot) and [Website](https://DiscordCleverbot.doge2018.repl.co)
 
 and many other small projects across varying languages!
 
 ## Display
+### Reek.lol
+![User Interface](https://raw.githubusercontent.com/darraghd493/darraghd493/main/imgs/reek-gui.png)
+
+The user interface of my new Minecraft 1.8.9 utility modification. This uses OpenGL and shaders which I have made to be accustom to it. I've finalised on a compact gui, not a dropdown, since it's a lot more clean and easier to use (and a lot more stylish).
+
 ### Clover
-![User Interface](https://camo.githubusercontent.com/70a2363ed578cfdc2347cd2113e2888689b56f3d8d8064c3b04dc8a1ce2e9424/68747470733a2f2f692e696d6775722e636f6d2f306c377137594d682e6a7067)
+![User Interface](https://raw.githubusercontent.com/darraghd493/darraghd493/main/imgs/clover-gui.jpg)
+
 The user interface of my new C/C++ autoclicker using ImGui! I've recently overhauled it - and compared to my last one it's a lot better which is something I'm proud of!
 I've not been using C/C++ for that long and I've been finding it useful to learn along with! Some of the key things I've experimented with is:
 * Threads
