@@ -40,6 +40,7 @@ I've not been using C/C++ for that long and I've been finding it useful to learn
 ## Notes
 * **01/09/2022** I just accidentally deleted the wrong project. This made up a lot of my work on here. :/
 * **11/09/2022** Just hit 400 commits with my *current* projects!
+* **02/03/2023** I just realised that I nearly always use the GNU General Public License, nice I guess?
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=darraghd493&count_private=true&show_icons=true)
