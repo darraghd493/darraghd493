@@ -12,8 +12,6 @@ I've used a couple of languages so far, these are:
 * HTML / CSS / JS
 * Lua
 
-*Fun fact: these are in order of what I like the most to least!*
-
 ### Current Projects
 I'm working on a couple of projects usually, currently I'm working on:
 * Fentanyl.tech, a Minecraft 1.8.9 utility modification
